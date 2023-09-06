@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PdfView" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="color">#B34D2D</item>
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="statusBarBackground">#7BD610</item>
+        <item name="android:endColor">#239528</item>
+        <item name="android:startColor">#EA3A03</item>
+
+
+    </style>
+
+    <style name="Theme.PdfView" parent="Base.Theme.PdfView" />
+</resources>
